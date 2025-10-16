@@ -104,8 +104,8 @@
     <value type="QString" key="MerBuildConfiguration.SigningUser"></value>
     <value type="QString" key="MerSfdkConfigurationAspect.Options"></value>
     <value type="QString" key="MerSpecFileAspect.Path"></value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -165,8 +165,8 @@
     <value type="QString" key="MerBuildConfiguration.SigningUser"></value>
     <value type="QString" key="MerSfdkConfigurationAspect.Options"></value>
     <value type="QString" key="MerSpecFileAspect.Path"></value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -227,8 +227,8 @@
     <value type="QString" key="MerBuildConfiguration.SigningUser"></value>
     <value type="QString" key="MerSfdkConfigurationAspect.Options"></value>
     <value type="QString" key="MerSpecFileAspect.Path"></value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac2-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\alexomur\Desktop\Projects\MireaAurora\build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">C:/Users/alexomur/Desktop/Projects/MireaAurora/build-ru.template.Prac3-AuroraOS_5_1_5_105_MB2_x86_64_in_aurora_os_build_engine_5_1_5_105_mb2_alexomur-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -404,7 +404,7 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="bool" key="MerRunConfiguration.DebugBypassOpenSslArmCapEnabled">true</value>
     <value type="bool" key="MerRunConfiguration.KeepUserData">true</value>
-    <value type="QString" key="MerRunConfiguration.QmlLiveBenchWorkspace">C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac2</value>
+    <value type="QString" key="MerRunConfiguration.QmlLiveBenchWorkspace">C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac3</value>
     <value type="bool" key="MerRunConfiguration.QmlLiveEnabled">false</value>
     <value type="int" key="MerRunConfiguration.QmlLiveIpcPort">-1</value>
     <value type="int" key="MerRunConfiguration.QmlLiveOptions">3</value>
@@ -412,9 +412,9 @@
     <value type="bool" key="MerRunConfiguration.SandboxEnabled">false</value>
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ru.template.Prac2 (on %{Device:Name})</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerRunConfiguration:C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac2/ru.template.Prac2.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac2/ru.template.Prac2.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ru.template.Prac3 (on %{Device:Name})</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerRunConfiguration:C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac3/ru.template.Prac3.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/alexomur/Desktop/Projects/MireaAurora/Prac3/ru.template.Prac3.pro</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
